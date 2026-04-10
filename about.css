@@ -13,7 +13,7 @@ header,
 h2.header {
   display: flex;
   justify-content: center;
-  color: #4fd1c5;
+  color: #74bad4;
   margin: 0;
 }
 
@@ -67,13 +67,13 @@ h2.header {
 
 .navbar a {
   text-decoration: none;
-  color: #4fd1c5;
+  color: #74bad4;
   font-size: 18px;
   transition: 0.3s;
 }
 
 .navbar a:hover {
-  color: #90f7ec;
+  color: #e0e0e0;
 }
 
 #hobbies-container,
@@ -84,7 +84,7 @@ h2.header {
 }
 
 .section-title {
-  color: #4fd1c5;
+  color: #74bad4;
   margin: 0 0 20px 0;
   font-size: 34px;
 }
@@ -119,7 +119,7 @@ h2.header {
 }
 
 #website-container a:hover {
-  color: #4fd1c5;
+  color: #74bad4;
   text-decoration: underline;
 }
 
@@ -150,7 +150,7 @@ h2.header {
 
 .social-card:hover {
   transform: scale(1.08);
-  background-color: #4fd1c5;
+  background-color: #74bad4;
 }
 
 footer {
@@ -167,9 +167,9 @@ footer {
 }
 
 .footer-quote {
-  font-size: 23px;
+  font-size: 20px;
   margin: 20px;
-  color: #f5e6c8;
+  color: #b0b0b0;
   text-align: center;
 }
 

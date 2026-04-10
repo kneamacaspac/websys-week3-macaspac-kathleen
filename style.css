@@ -13,7 +13,7 @@ header,
 h2.header {
   display: flex;
   justify-content: center;
-  color: #4fd1c5;
+  color: #74bad4;
   margin: 0;
 }
 
@@ -31,9 +31,6 @@ h2.header {
 
 #navbar-container,
 #about-container,
-#hobbies-container,
-#website-container,
-#contact-container,
 #footer-container {
   width: 90%;
   max-width: 1200px;
@@ -67,7 +64,7 @@ h2.header {
 
 .navbar a {
   text-decoration: none;
-  color: #4fd1c5;
+  color: #74bad4;
   font-size: 18px;
   transition: 0.3s;
 }
@@ -125,9 +122,9 @@ footer {
 }
 
 .footer-quote {
-  font-size: 23px;
+  font-size: 20px;
   margin: 20px;
-  color: #f5e6c8;
+  color: #b0b0b0;
   text-align: center;
 }
 

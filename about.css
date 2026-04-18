@@ -34,6 +34,8 @@ h2.header {
 #website-container,
 #contact-container,
 #footer-container {
+  border: 1px solid #74bad4;
+  box-sizing: border-box;
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
